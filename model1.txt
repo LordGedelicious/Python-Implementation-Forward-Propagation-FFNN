@@ -1,5 +1,5 @@
-number_of_layers=3
-number_of_models=5
+2
+5
 1,1,relu,0.3
 2,1,sigmoid,0.1
 3,2,linear,0.5
